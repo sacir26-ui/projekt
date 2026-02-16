@@ -59,7 +59,7 @@ const Profil = () => {
                 </ul>
             </div>
 
-            <p>Ulica: {Korisnik.adresa.ulica}</p>
+            <p>Ulicaa: {Korisnik.adresa.ulica}</p>
             <p>Grad: {Korisnik.adresa.grad}</p>
             <p>Poštanski broj: {Korisnik.adresa.pbroj}</p>
 
